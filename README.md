@@ -1,1 +1,2 @@
 # Meta-Ads-Performance-Analysis-and-Interactive-Dashboard-Using-Power-BI
+Digital advertising platforms generate enormous volumes of event-level data, but raw tables of impressions, clicks and purchases do not by themselves support decisions. Data visualization and storytelling turn such data into a form that a marketing manager can read in seconds. This report presents an interactive Power BI dashboard, named the Meta Ad Performance Dashboard, that analyses the performance of advertising campaigns run on the Facebook and Instagram platforms of Meta.
